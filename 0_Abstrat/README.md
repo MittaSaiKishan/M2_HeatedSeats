@@ -1,7 +1,7 @@
 
 # Introduction
 
-The system is used to warm the seates of automobiles when used in cold freezing winters.
+The system is used to warm the seats of automobiles when used in cold freezing winters.
 Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer. The heater in most vehicles work well, but the car's seat warmer is close to your body allowing you to warm up faster.
 ### Input and connections
 - Seat switch (D0)
